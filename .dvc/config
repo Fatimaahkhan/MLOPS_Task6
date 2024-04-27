@@ -1,0 +1,5 @@
+[core]
+    remote = task6
+['remote "task6"']
+    url = gdrive://1fUhvtgV2y2Lfx-cR42l0J5e4otkVrjpg
+    gdrive_use_service_account = false
